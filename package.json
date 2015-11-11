@@ -1,0 +1,17 @@
+{
+  "name": "clidemo",
+  "version": "1.0.0",
+  "description": "this is demo for guids",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "author": "send2ocean",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "colors": "^1.1.2",
+    "config": "^1.16.0",
+    "mysql": "^2.9.0"
+  }
+}
