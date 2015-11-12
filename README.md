@@ -16,5 +16,9 @@ Diagnosis Self 的一个例子,用nodejs readline mysql实现。
 **怎么用呢**  
 - 你可以直接输入数字开始自我诊断，但建议先输入 `list`  命令，先看看有哪些ID可以使用。
 
+----------
+**新增** 
+ add :demo_mac_say.---- 使用MAC 的 say 命令.it's cool.....
+
 
 
